@@ -39,4 +39,4 @@ if st.button("Predict"):
         st.warning("Please enter some text to classify.")
 
 # Footer
-st.write("Developed with ❤️ using Streamlit")
+st.write("Developed and design by Tejas Sinroja using Streamlit")
