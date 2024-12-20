@@ -2,7 +2,8 @@
 
 # Spam SMS Detection
 
-This project aims to classify SMS messages as either "spam" or "ham" (non-spam) using machine learning techniques. The model leverages natural language processing (NLP) to analyze the content of SMS messages and determine their classification.
+This project aims to classify SMS messages as either "spam" or "ham" (non-spam) using machine learning techniques. The model leverages natural language processing (NLP) to analyze the content of SMS messages and determine their classification.The project is seccesfully deployed on streamlit cloud.
+Live dashboard : https://spam-sms-detection-home.streamlit.app/
 
 ## Table of Contents
 1. [Introduction](#introduction)  
